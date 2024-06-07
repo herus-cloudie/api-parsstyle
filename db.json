@@ -24,7 +24,7 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "no",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "2"
       },
       {
@@ -89,7 +89,7 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "no",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "7"
       },
       {
@@ -102,7 +102,7 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "no",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "8"
       }
       ,
@@ -116,7 +116,7 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "no",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "9"
       }
       ,
@@ -130,12 +130,10 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "20",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "10"
       }
       ,
-
-
       {
           "title" : "ست ورزشی مردانه",
           "category" : "ورزشی و اسپورت",
@@ -202,7 +200,7 @@
           "size" : ["S" , "M" , "L" , "XL"],
           "comment" : [],
           "discount" : "4",
-          "seller" : "توانا",
+          "seller" : "tavana",
           "id" : "15"
       }
       ,
