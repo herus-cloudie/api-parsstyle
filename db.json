@@ -29,7 +29,7 @@
         {
             "title" : "شلوار اسلش مردانه طرح جین",
             "category" : "pants",
-            "price" : "4350000",
+            "price" : "435000",
             "img" : ["/dress/Mpants1.jpg" , "/dress/Mpants2.jpg" ,  "/dress/Mpants3.jpg"  ,  "/dress/Mpants4.jpg"  ],
             "sex" : "men",
             "color" : ["#878787"],
@@ -538,7 +538,7 @@
             "price" : "9700000",
             "img" : ["/dress/leather1.jpg" , "/dress/leather2.jpg"  , "/dress/leather3.jpg" , "/dress/leather4.jpg" , "/dress/leather5.jpg" ],
             "sex" : "men",
-            "color" : ["#b2b2b2"],
+            "color" : ["brown"],
             "size" : ["S" , "M" ,"XL"],
             "discount" : "no",
             "seller" : "tavana",
